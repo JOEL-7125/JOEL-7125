@@ -1,4 +1,4 @@
-<h2><center>👋 Hi, I’m @JOEL-7125 [HASMUKH]</center></h2>
+<h2><center>👋 Hi, I’m @JOEL-7125</center></h2>
 <br>
 - 👀 I’m interested in PROGRAMING!<br>
 - 🌱 I’m currently learning PYTHON<br>
