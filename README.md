@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi, I’m @JOEL-7125</h2>
+<h2 align="center">👋 Hi, `I’m @JOEL-7125`</h2>
 <br>
 - 👀 I’m interested in PROGRAMING!<br>
 - 🌱 I’m currently learning PYTHON<br>
